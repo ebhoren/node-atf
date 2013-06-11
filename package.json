@@ -1,0 +1,22 @@
+{
+  "name": "node-atf",
+  "version": "0.0.1",
+  "description": "Node module to package PNG images to ATF textures to use in Flash/AIR.",
+  "main": "node-atf.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebhoren/node-atf.git"
+  },
+  "keywords": [
+    "ATF"
+  ],
+  "author": {
+    "name": "Dominic Mercier",
+    "email": "d.mercier84@gmail.com"
+  },
+  "readmeFilename": "README.md",
+  "license": "BSD"
+}
